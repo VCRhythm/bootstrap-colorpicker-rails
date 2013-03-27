@@ -7,6 +7,9 @@
  *
  */
  
+ @import "twitter/bootstrap/variables"
+ @import "twitter/bootstrap/mixins"
+ 
 .colorpicker-saturation {
 	width: 100px;
 	height: 100px;
