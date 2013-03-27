@@ -14,7 +14,7 @@ Gem::Specification.new do |gem|
   gem.version       = BootstrapColorpickerRails::Rails::VERSION
 
   gem.add_dependency "railties", ">= 3.0"
-  gem.add_dependency "twitter-bootstrap-rails", "~> 2.24"
+  gem.add_dependency "twitter-bootstrap-rails", "~> 2.2.4"
   gem.add_dependency "less", "~> 2.2.2"
   gem.add_development_dependency "bundler", ">= 1.0"
   gem.add_development_dependency "rake"
